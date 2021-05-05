@@ -1,6 +1,7 @@
 ---
 title: De ce să încep să învăț să scriu?
 date: 2021-05-05T14:17:03.833Z
+image: /images/statuie-ganditoare.jpg
 tags:
   - gândire
   - cuvinte
@@ -12,6 +13,12 @@ tags:
   - coregrafdecuvinte
 draft: true
 ---
+<!--StartFragment-->
+
+Photo by **[George Shervashidze](https://www.pexels.com/@automnenoble?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **[Pexels](https://www.pexels.com/photo/close-up-photography-of-boy-statue-1033797/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**
+
+<!--EndFragment-->
+
 Nu prea am înțeles de ce sunt pe acest drum, în a scrisului.
 
 Pe zi ce trece, sunt tot mai interesat să scriu corect, în diferite situații.
