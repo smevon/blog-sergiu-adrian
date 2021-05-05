@@ -6,7 +6,7 @@ menu:
     weight: 999
 draft: false
 ---
-## Cine este acest individ? Sergiu
+## Cine este acest individ?
 
 Mă bucur că întrebi.
 
