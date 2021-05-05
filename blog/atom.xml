@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://www.sergiu-adrian.ro/</id>
-  <title>Sergiu</title>
+  <id>https://www.sergiu-adrian.ro/blog/</id>
+  <title>Sergiu - Blog</title>
   <subtitle><![CDATA[Coregraf de cuvinte]]></subtitle>
-  <link href="https://www.sergiu-adrian.ro/atom.xml" rel="self" type="application/atom+xml" />
-  <link href="https://www.sergiu-adrian.ro/" rel="alternate" type="text/html" />
+  <link href="https://www.sergiu-adrian.ro/blog/atom.xml" rel="self" type="application/atom+xml" />
+  <link href="https://www.sergiu-adrian.ro/blog/" rel="alternate" type="text/html" />
   <updated>2020-03-09T01:00:00+01:00</updated>
   <author>
     <name>Sergiu</name>
@@ -41,26 +41,5 @@
     <link href="https://www.sergiu-adrian.ro/blog/doom/" rel="alternate" type="text/html" />
     <published>2019-12-14T01:00:00+01:00</published>
     <updated>2019-12-14T01:00:00+01:00</updated>
-  </entry>
-  <entry xml:lang="en">
-    <id>https://www.sergiu-adrian.ro/about/</id>
-    <title>Despre mine</title>
-    <content type="html">
-      <![CDATA[<h2>Cine este acest individ?</h2>
-<p>Mă bucur că întrebi.</p>
-<p>În calitate de coregraf de cuvinte, sau, cum spune englezul, content writer, îți aduc valoare în următoarele arii ale afacerii tale:</p>
-<ul>
-<li>Cuvinte cheie amplasate strategic</li>
-<li>Studiu de piață</li>
-<li>Segmentarea clienților</li>
-<li>Call to Action specifice și ușor de luat acțiune</li>
-<li>Potrivirea procesului de vânzare cu segmentul de clienți</li>
-<li>Focus pe deschiderea unei conversații</li>
-<li>Creșterea vânzărilor</li>
-</ul>]]>
-    </content>
-    <link href="https://www.sergiu-adrian.ro/about/" rel="alternate" type="text/html" />
-    <published>2019-07-09T02:00:00+02:00</published>
-    <updated>2019-07-09T02:00:00+02:00</updated>
   </entry>
 </feed>
