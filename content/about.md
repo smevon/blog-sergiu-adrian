@@ -6,16 +6,16 @@ menu:
     weight: 999
 draft: false
 ---
-## Despre acest individ, Sergiu
+## Cine este acest individ? Sergiu
 
-### Managing content with [Forestry](https://forestry.io)
+Mă bucur că întrebi.
 
-If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!
+În calitate de coregraf de cuvinte, sau, cum spune englezul, content writer, îți aduc valoare în următoarele arii ale afacerii tale:
 
-[![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://cecil.app/cms/forestry/import/)
-
-### Deploy with [Netlify](https://www.netlify.com)
-
-Otherwise, if your goal is deploying a new blog quickly, and manage content mannually, use the following button to configure and deploy your new blog on Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/the-butler&stack=cms)
+* Cuvinte cheie amplasate strategic
+* Studiu de piață
+* Segmentarea clienților
+* Call to Action specifice și ușor de luat acțiune
+* Potrivirea procesului de vânzare cu segmentul de clienți
+* Focus pe deschiderea unei conversații
+* Creșterea vânzărilor
