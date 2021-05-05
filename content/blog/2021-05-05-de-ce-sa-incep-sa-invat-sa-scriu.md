@@ -19,7 +19,7 @@ Photo by **[George Shervashidze](https://www.pexels.com/@automnenoble?utm_conte
 
 <!--EndFragment-->
 
-Nu prea am înțeles de ce sunt pe acest drum, în a scrisului.
+# Nu prea am înțeles de ce sunt pe acest drum, în a scrisului.
 
 Pe zi ce trece, sunt tot mai interesat să scriu corect, în diferite situații.
 
