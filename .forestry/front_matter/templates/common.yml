@@ -1,6 +1,6 @@
 ---
 label: Common
-hide_body: false
+hide_body: true
 display_field: title
 fields:
 - type: text
@@ -15,8 +15,8 @@ fields:
   config:
     required: true
     date_format: YYYY-MM-DD
-    time_format: 
-    display_utc: 
+    time_format:
+    display_utc:
     export_format: ''
   default: now
 - name: draft
