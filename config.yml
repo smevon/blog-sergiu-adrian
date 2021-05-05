@@ -19,4 +19,4 @@ hyde:
   reverse: false
 title: Sergiu
 baseurl: https://www.sergiu-adrian.ro/
-canonicalurl: true
+canonicalurl: false
