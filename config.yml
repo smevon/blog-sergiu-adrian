@@ -1,4 +1,4 @@
-baseline: Coregraf de cuvinte
+baseline: Adrian
 theme:
   - hyde
   - netlify
@@ -8,7 +8,7 @@ keywords:
   - Static Site Generator
   - SSG
 author: Arnaud Ligny
-description: După ce citești un articol, ai să mă cunoști mai bine
+description: Coregraf de cuvinte
 date:
   format: j F Y
   timezone: Europe/Paris
@@ -17,6 +17,6 @@ hyde:
     sticky: true
   theme: ""
   reverse: false
-title: Sergiu A. Rus
+title: Sergiu
 baseurl: /
 canonicalurl: true
