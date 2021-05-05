@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>/tags/video-games/</id>
-  <title>Sergiu A. Rus - Video games</title>
-  <subtitle><![CDATA[După ce citești un articol, ai să mă cunoști mai bine]]></subtitle>
+  <title>Sergiu - Video games</title>
+  <subtitle><![CDATA[Coregraf de cuvinte]]></subtitle>
   <link href="/tags/video-games/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/tags/video-games/" rel="alternate" type="text/html" />
   <updated>2019-12-14T01:00:00+01:00</updated>
   <author>
-    <name>Sergiu A. Rus</name>
+    <name>Sergiu</name>
     <uri>/</uri>
   </author>
   <entry xml:lang="en">
