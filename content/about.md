@@ -1,5 +1,5 @@
 ---
-title: Despre mine
+title: Despre Sergiu
 date: 2019-07-09
 menu:
   main:
