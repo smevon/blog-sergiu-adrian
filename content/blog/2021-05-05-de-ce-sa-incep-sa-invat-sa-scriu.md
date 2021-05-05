@@ -19,7 +19,7 @@ Photo by **[George Shervashidze](https://www.pexels.com/@automnenoble?utm_conte
 
 <!--EndFragment-->
 
-# Nu prea am înțeles de ce sunt pe acest drum, în a scrisului.
+Nu prea am înțeles de ce sunt pe acest drum, în a scrisului.
 
 Pe zi ce trece, sunt tot mai interesat să scriu corect, în diferite situații.
 
@@ -48,6 +48,8 @@ Poate că este cel mai relevant, exemplu, poate că nu, eu nu am de unde să șt
 Revenind la ale mele frustrări, că nu știam să gândesc, multe persoane mi-au cerut să fac asta, fără să-mi explice cum să fac acest lucru. Ce întrebări pot folosi pentru a găsi răspunsuri mai bune și mai practice. Aceste 2 instrumente sunt cruciale când vine vorba de a gândi, dar, nimeni nu mi-a zis asta.
 
 Când primeam întrebări, sau erau situații în care știam că „oamenii gândesc”, eu pur și simplu, stăteam, pierdut, și nu făceam nimic spectaculos. Pe scurt, nu gândeam, nu făceam nimic în plus, decât să dau răspunsul pe care îl aveam oricum în primele 2 secunde de când am primit întrebarea. Dar pentru că în contextele astea „oamenii gândesc”, m-am făcut și eu statuie pentru câteva secunde.
+
+
 
 Trăind cu întrebarea asta, observat destul de repede oportunitățile din societate, și deseori am întrebat persoanele în care aveam încredere „Ce înseamnă să gândești?”, „Ce face prietenul tău, despre care vorbești atât de frumos, când gândește?” sau „Cum ai gândit, ce ai gândit ca să ajungi la soluția asta?”, și am primit răspunsuri vagi, care mai mult mă agitau. 
 
