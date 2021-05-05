@@ -60,12 +60,9 @@
   </entry>
   <entry xml:lang="en">
     <id>/about/</id>
-    <title>About</title>
+    <title>Despre mine</title>
     <content type="html">
-      <![CDATA[<blockquote>
-<p>A ready to use static blog, powered by <a href="https://cecil.app">Cecil</a>.</p>
-</blockquote>
-<h2>How to use?</h2>
+      <![CDATA[<h2>Despre acest individ, Sergiu</h2>
 <h3>Managing content with <a href="https://forestry.io">Forestry</a></h3>
 <p>If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!</p>
 <p><a href="https://cecil.app/cms/forestry/import/"><img src="https://assets.forestry.io/import-to-forestryK.svg" alt="Import this project into Forestry" /></a></p>
