@@ -1,5 +1,5 @@
 prose:
-  rooturl: 'https://www.sergiu-adrian.ro/'
+  rooturl: 'content'
   media: 'static/images'
   metadata:
     content:
