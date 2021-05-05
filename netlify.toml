@@ -12,8 +12,8 @@
   CECIL_ENV = "branch"
 
 [template.environment]
-  CECIL_TITLE = "Blog's title"
-  CECIL_BASELINE = "Short description (~ 20 characters)"
-  CECIL_DESCRIPTION = "Full description (~ 250 characters)"
-  CECIL_AUTHOR = "Your name"
-  CECIL_THEME = "Theme (use 'hyde' or 'garth')"
+  CECIL_TITLE = "Sergiu Adrian"
+  CECIL_BASELINE = "Coregraf de cuvinte"
+  CECIL_DESCRIPTION = "Dacă noi, oamenii, cu limitările pe care ni le oferă corpul, putem dansa. De ce să nu poată dansa cititorul care citește coregrafia cuvintelor?"
+  CECIL_AUTHOR = "Sergiu A. Rus"
+  CECIL_THEME = "'hyde'"

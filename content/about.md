@@ -1,6 +1,6 @@
 ---
 title: Despre mine
-date: 2019-07-09
+date: 2020-05-05
 menu:
   main:
     weight: 999
