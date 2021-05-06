@@ -44,8 +44,6 @@ Când un lucru îl poate face și altcineva, nu mă mai interesează. Când un l
 
 Până acum, viața mea a fost descrisă în două variabile: fie fac ceva ce nimeni nu ar face, fie nu fac nimic. Ce pot să zic, sunt special! Pe naiba special, că atunci când „pic în plasa” lucrurilor mărunte, mă pierd, mă scufund și uit cine sunt și, de cele mai multe ori, nu performez. Nu sunt făcut, sau ființa mea, nu este făcută să facă ceea ce poate să facă și vecinul de la 3.
 
-
-
 Sunt o ființă extraordinară, sunt făcut să fac lucruri extraordinare și să fiu extraordinar.
 
 Mă cred prea bun?
@@ -58,11 +56,9 @@ Cea mai bună variantă o găsesc pe calea consecvenței.
 
 <!--StartFragment-->
 
-Imaginea creată de **[Vlado Paunovic](https://www.pexels.com/@vlado-paunovic-1567547?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** de minunata platformă, **[Pexels](https://www.pexels.com/photo/gray-concrete-building-exterior-with-geometric-design-3038740/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**
+Imaginea creată de **[Vlado Paunovic](https://www.pexels.com/@vlado-paunovic-1567547?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** și încărcată pe minunata platformă, **[Pexels](https://www.pexels.com/photo/gray-concrete-building-exterior-with-geometric-design-3038740/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**
 
 <!--EndFragment-->
-
-
 
 Sergiu,
 
