@@ -1,6 +1,6 @@
 ---
 title: Ce fac cu viața mea?
-date: 2021-05-05T19:48:41.189Z
+date: 2021-05-06T19:48:41.189Z
 image: /images/2-caut-si-gasesc-calea.jpg
 draft: true
 ---
