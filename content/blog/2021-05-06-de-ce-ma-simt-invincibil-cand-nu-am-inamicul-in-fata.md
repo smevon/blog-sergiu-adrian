@@ -1,6 +1,6 @@
 ---
 title: De ce mă simt invincibil când nu am cu cine mă bate?
-date: 2021-05-06T18:30:11.413Z
+date: 2021-05-07T18:30:11.413Z
 draft: true
 ---
 Să fii puternic, să te dai mare, să te crezi invincibil, când nu ai niciun inamic, sau ceva de cucerit, este ca și cum ai spune după un meci de fotbal... știam eu că echipa câștigătoare va câștiga.
