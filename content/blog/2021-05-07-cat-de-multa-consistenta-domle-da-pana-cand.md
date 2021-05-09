@@ -1,6 +1,6 @@
 ---
 title: Cât de multă consistență domle? Da' până când?
-date: 2021-05-07T17:57:25.847Z
+date: 2021-05-08T17:57:25.847Z
 draft: true
 ---
 În acest articol îți povestesc despre percepția mea despre diferența între mic și mare.
