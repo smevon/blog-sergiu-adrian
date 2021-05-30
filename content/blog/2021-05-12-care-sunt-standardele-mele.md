@@ -1,6 +1,7 @@
 ---
 title: Care sunt standardele mele?
 date: 2021-05-13T18:28:51.278Z
+image: /images/9-standarde.jpg
 tags:
   - Cinesunt?
 draft: true
