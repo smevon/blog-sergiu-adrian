@@ -1,6 +1,7 @@
 ---
 title: Cine a trecut prin ceva asemănător ca mine?
 date: 2021-05-31T18:07:36.595Z
+image: /images/11-experienta.jpg
 tags:
   - Cefac?
 draft: true
