@@ -1,16 +1,16 @@
 ---
-title: Despre mine
+title: Despre mine, pe scurt.
 date: 2020-05-05
 menu:
   main:
     weight: 999
 draft: false
 ---
-## Cine ești tu oare?
+## „Da' cine ești tu, mă Sergiu?”
 
 Pentru că mă întrebi, eu îți voi răspunde.
 
-În calitate de coregraf de cuvinte, sau, cum spune englezul, content writer, pe acest blog scriu cu folos pentru omul care:
+În calitate de coregraf de cuvinte, sau cum spune englezul, content writer, pe acest blog scriu cu folos pentru omul care:
 
 * Nu se face înțeles când vrea să-și exprime ideile;
 * Vorbește cu puțin curaj și când tace, opiniile celorlalți îl pun la pământ;
