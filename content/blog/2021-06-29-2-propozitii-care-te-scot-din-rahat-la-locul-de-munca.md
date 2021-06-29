@@ -22,7 +22,7 @@ Auzind reacția nemulțumitoare în căștile care îmi încălzeau urechile, mi
 
 Iar, la al treilea subpunct, auzit că vocea managerului are ceva diferit, are o nuanță tipică de nervozitate și nemulțumire. 
 
-Citind ulterior despre acest fenomen, am descoperit cât de importantă este onestitatea la locul de muncă. Și când spun onestitate, mă refer ca ambele părți, atât angajatul, cât și conducerea să recunoască momentele când ceva nu a mers bine. Într-un studiu a fost descoperit că pe durata a 10 ani, cât a fost studiul, feedbackul onest conduce la un profit cu 270% mai mare pentru companii.
+Citind ulterior despre acest fenomen, am descoperit cât de importantă este onestitatea la locul de muncă. Și când spun onestitate, mă refer ca ambele părți, atât angajatul, cât și conducerea să recunoască momentele când ceva nu a mers bine. Într-un studiu derulat pe 10 ani s-a descoperit că feedbackul onest conduce la un profit cu 270% mai mare pentru companii.
 
 În cazul meu, puteam face două lucruri mai bine. Și uite, cele două propoziții care mi-ar fi salvat locul de muncă.
 
@@ -34,7 +34,7 @@ De cele mai multe ori, un manager știe prin ce trece un angajat. Știe că se p
 
 „Înainte să începem întâlnirea vreau să-ți spun că am părți ușoare, dar și grele în prezentare. Te rog să ai răbdare în situația în care voi spune ceva și nu are sens. Voi fi atent și voi reformula dacă este cazul!”
 
-Pregătești terenul și te calmezi instant, pentru simplul fapt că ai reglat așteptările. Ba mai mult, managerul va aprecia că îl pregătești pentru o atitudine, pe care o caută la fiecare angajat. Adică, atunci când ceva nu merge, să fie pro-activ și să caute soluții.
+Pregătești terenul și te calmezi instant, pentru simplul fapt că ai reglat așteptările. Ba mai mult, managerul va aprecia că îl pregătești pentru o atitudine orientată spre progres, pe care o caută la fiecare angajat. Adică, atunci când ceva nu merge, să fie pro-activ și să caute soluții.
 
 ### **2. Solicitarea unei reformulări**
 
