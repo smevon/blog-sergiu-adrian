@@ -10,7 +10,7 @@ Cine a mai pățit să aibă multe de făcut și să nu facă nimic?
 
 Cine a mai trecut prin senzația apăsătoare a listelor cu aspecte ce „trebuie” făcute? Liste în care apar aspecte noi, care se înmulțesc, fără să fie bifat vreun lucru la final de zi.
 
-Azi, fac multe. Pot număra câteva zeci de activități îndeplinite pe zi cu succes. Câte dintre ele contează cu adevărat? Niciuna. Ei bine, sunt relevante, dar degeaba îmi ascut cuțitele dacă îmi cumpăr pâinea feliată. Degeaba îmi calc hainele, sau îmi aranjez hainele la dungă, dacă stau doar în casă, și doar în pijama. 
+Azi, fac multe. Pot număra câteva zeci de activități îndeplinite pe zi cu succes. Câte dintre ele contează cu adevărat? Niciuna. Ei bine, sunt relevante, dar degeaba îmi ascut cuțitele dacă îmi cumpăr pâinea feliată. Degeaba îmi calc hainele, sau îmi aranjez hainele la dungă, dacă stau doar în casă, și doar în pijama.
 
 Metaforic vorbind stau în pijama, pentru că dacă există un lucru care mă enervează cel mai tare, este să rămân în pijama toată ziua.
 
@@ -21,3 +21,25 @@ La rădăcină, singurul comportament care mi-ar aduce cu adevărat valoare, ar 
 Bine, exemplul inițial era cu Ferrari, cum că „eu deja sunt milionar în mintea mea, de cumpărat îmi cumpăr Ferari, m-am decis, dar nu știu ce culoare”.
 
 Ce avantaje am în situația actuală?
+
+
+<form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Your Role: <select name="role[]" multiple>
+      <option value="leader">Leader</option>
+      <option value="follower">Follower</option>
+    </select></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
