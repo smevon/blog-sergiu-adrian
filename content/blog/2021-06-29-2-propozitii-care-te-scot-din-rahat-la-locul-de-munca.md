@@ -14,7 +14,7 @@ Sunt băgat cu ochii în laptop, mă uit ba pe monitorul laptopului, ba pe ecran
 
 Începe întâlnirea cu renumitul small talk, în care suntem oameni, și comunicăm liber. Acum că au trecut cele 2 minute, simt o presiune în tot corpul, că nu ar mai trebui să îi pierd timpul managerului și să începem efectiv întâlnirea.
 
-Comunic bine, transmit ideile cursiv, asta datorită faptului că am început cu ideile mai puțin relevante. Acum, sunt în fața idei principale, cele mai importante idei, care are mai multe subpuncte. Încep cu primul subpunct, care pare să fie ușor, dar îl comunic stângaci. 
+Comunic bine, transmit ideile cursiv, asta datorită faptului că am început cu ideile mai puțin relevante. Acum, sunt în fața ideii principale, celei mai importante idei, care are mai multe subpuncte. Încep cu primul subpunct, care pare să fie ușor, dar îl comunic stângaci. 
 
 \- Ceea ce aveam eu în cap înainte să spun asta, suna altfel. Mi-am spus eu.
 
