@@ -1,5 +1,5 @@
 ---
-title: 2 propoziții care te scot din rahat la locul de muncă
+title: 2 metode prin care să gestionezi neînțelegerile în întâlnirea cu managerul tău
 date: 2021-06-29T18:10:07.365Z
 image: /images/articol-01.jpg
 tags:
@@ -42,17 +42,17 @@ Dacă nu reușești din varii motive să pui în aplicare prima propoziție, pri
 
 Cum faci asta?
 
-„Observ că nu are sens ce am spus. Din câte îmi dau seama, nu s-a înțeles ideea. Aș vrea să reformulez”
+„Observ că nu are sens ce am spus. Din câte îmi dau seama, nu s-a înțeles ideea. Aș vrea să reformulez.”
 
 Imediat ce primești aprobare, vei vedea cum a doua oară reușești să te concentrezi mai bine și să pui cap la cap ideile.
 
 De ce este important să verbalizezi că vrei să reformulezi? Pentru că are rol de delimitare și te ajută să te deconectezi de prima încercare.
 
-Așa cum cel mai probabil te-ai obișnuit, îți cer și de data asta să nu mă crezi pe cuvânt și să testezi pe cont propriu, în situațiile tale de viață.
+Așa cum cel mai probabil te-ai obișnuit, îți cer și de data asta să nu mă crezi pe cuvânt și să testezi pe cont propriu, în situațiile tale de viață. Sunt două fraze, două idei, care pot fi testate și folosite conform contextului. Te rog să nu te blochezi în a nu folosi cuvintele de mai sus, doar pentru că nu le poți reține. Nu este nevoie să le memorezi ca ele să funcționeze.
 
 Ca să te încurajez să testezi, acum că ești la finalul articolului… Cum ar fi ca ideile din minte, să fie tot mai des verbalizate? Cum ar fi ca la un moment dat, după puțin antrenament, să îți dai seama de variante alternative, mai bune, înainte să le verbalizezi?
 
-În această direcție vreau să te conduc pe acest blog, așa că dragul meu, draga mea, te invit să te abonezi, pentru că doar așa putem prinde împreună valul următor.
+În această direcție vreau să te conduc pe acest blog, așa că dragul meu, draga mea, te invit să te abonezi, pentru că doar așa putem prinde împreună valul următor de soluții practice.
 
 Sergiu,
 
