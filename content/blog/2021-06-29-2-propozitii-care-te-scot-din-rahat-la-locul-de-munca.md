@@ -1,5 +1,5 @@
 ---
-title: 2 metode prin care să gestionezi neînțelegerile în întâlnirea cu managerul tău
+title: 2 metode cu care să te faci înțeles în fața managerului tău
 date: 2021-06-29T18:10:07.365Z
 image: /images/articol-01.jpg
 tags:
