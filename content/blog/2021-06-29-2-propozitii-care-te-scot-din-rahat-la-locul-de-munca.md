@@ -1,5 +1,5 @@
 ---
-title: 2 propoziții care te scot din rahat la locul de muncă
+title: 2 metode prin care să gestionezi neînțelegerile în întâlnirea cu managerul tău
 date: 2021-06-29T18:10:07.365Z
 image: /images/articol-01.jpg
 tags:
@@ -8,21 +8,21 @@ draft: true
 ---
 <!--StartFragment-->
 
-Sunt băgat cu ochii în laptop, mă uit ba pe monitorul laptopului, ba pe ecranul conectat. Mai sunt 20 de minute până la întâlnirea cu managerul meu și îmi scriu și rescriu ideile ce țin de mine în întâlnire. Mă uit peste notițe, par bine scrise, dar cu fiecare minut ce trece, par să fie tot mai teribile.
+Sunt băgat cu ochii în laptop, mă uit ba pe monitorul laptopului, ba pe ecranul conectat. Mai sunt 20 de minute până la întâlnirea cu managerul meu și îmi scriu și rescriu ideile ce țin de mine în întâlnire. Mă uit peste notițe, par bine scrise, dar, cu fiecare minut ce trece, par să fie tot mai teribile.
 
-Îmi construiesc un scenariu posibil în mintea mea și, sper să îmi transmit ideile, exact așa cum mi-am plănuit. Sunt trup și suflet în pregătirea de pe ultima sută de metri. Trimit linkul conferinței online, și mă asigur că vezica este goală, am apă pe masă și că microfonul este conectat corect la laptop.
+Îmi construiesc un scenariu posibil în mintea mea și sper să îmi transmit ideile, exact așa cum am plănuit. Sunt trup și suflet în pregătirea de pe ultima sută de metri. Trimit linkul conferinței online și mă asigur că vezica este goală, am apă pe masă și că microfonul este conectat corect la laptop.
 
-Începe întâlnirea cu renumitul small talk, în care suntem oameni, și comunicăm liber. Acum că au trecut cele 2 minute, simt o presiune în tot corpul, că nu ar mai trebui să îi pierd timpul managerului și să începem efectiv întâlnirea.
+Începe întâlnirea cu renumitul small talk în care suntem oameni și comunicăm liber. Acum că au trecut cele 2 minute, simt o presiune în tot corpul. Nu ar mai trebui să îi pierd timpul managerului și să începem efectiv întâlnirea.
 
-Comunic bine, transmit ideile cursiv, asta datorită faptului că am început cu ideile mai puțin relevante. Acum, sunt în fața idei principale, cele mai importante idei, care are mai multe subpuncte. Încep cu primul subpunct, care pare să fie ușor, dar îl comunic stângaci. 
+Comunic bine, transmit ideile cursiv, asta datorită faptului că am început cu ideile mai puțin relevante. Acum sunt în fața ideii principale, a celei mai importante idei, care are mai multe subpuncte. Încep cu primul subpunct, care pare să fie ușor, dar îl comunic stângaci. 
 
-\- Ceea ce aveam eu în cap înainte să spun asta, suna altfel. Mi-am spus eu.
+\- Ceea ce aveam eu în cap înainte să spun asta suna altfel. Mi-am spus eu.
 
 Auzind reacția nemulțumitoare în căștile care îmi încălzeau urechile, mi-a scăzut încrederea în forțele proprii și am continuat cu al doilea subpunct, pe care l-am zis și mai prost.
 
-Iar, la al treilea subpunct, auzit că vocea managerului are ceva diferit, are o nuanță tipică de nervozitate și nemulțumire. 
+Iar, la al treilea subpunct, am auzit că vocea managerului are ceva diferit, are o nuanță tipică de nervozitate și nemulțumire. 
 
-Citind ulterior despre acest fenomen, am descoperit cât de importantă este onestitatea la locul de muncă. Și când spun onestitate, mă refer ca ambele părți, atât angajatul, cât și conducerea să recunoască momentele când ceva nu a mers bine. Într-un studiu a fost descoperit că pe durata a 10 ani, cât a fost studiul, feedbackul onest conduce la un profit cu 270% mai mare pentru companii.
+Citind ulterior despre acest fenomen, am descoperit cât de importantă este onestitatea la locul de muncă. Și când spun onestitate, mă refer ca ambele părți, atât angajatul, cât și conducerea să recunoască momentele când ceva nu a mers bine. Într-un studiu derulat pe 10 ani s-a descoperit că feedbackul onest conduce la un profit cu 270% mai mare pentru companii.
 
 În cazul meu, puteam face două lucruri mai bine. Și uite, cele două propoziții care mi-ar fi salvat locul de muncă.
 
@@ -34,25 +34,25 @@ De cele mai multe ori, un manager știe prin ce trece un angajat. Știe că se p
 
 „Înainte să începem întâlnirea vreau să-ți spun că am părți ușoare, dar și grele în prezentare. Te rog să ai răbdare în situația în care voi spune ceva și nu are sens. Voi fi atent și voi reformula dacă este cazul!”
 
-Pregătești terenul și te calmezi instant, pentru simplul fapt că ai reglat așteptările. Ba mai mult, managerul va aprecia că îl pregătești pentru o atitudine, pe care o caută la fiecare angajat. Adică, atunci când ceva nu merge, să fie pro-activ și să caute soluții.
+Pregătești terenul și te calmezi instant, pentru simplul fapt că ai reglat așteptările. Ba mai mult, managerul va aprecia că îl pregătești pentru o atitudine orientată spre progres pe care o caută la fiecare angajat. Adică, atunci când ceva nu merge, să fie pro-activ și să caute soluții.
 
 ### **2. Solicitarea unei reformulări**
 
-Dacă nu reușești din varii motive să pui în aplicare prima propoziție, prima atitudine. Ești salvat, ai posibilitatea să spui pe loc, să ceri imediat ce faci gafa, o a doua șansă.
+Dacă nu reușești din varii motive să pui în aplicare prima propoziție, prima atitudine: ești salvat, ai posibilitatea să spui pe loc, să ceri, imediat ce faci gafa, o a doua șansă.
 
 Cum faci asta?
 
-„Observ că nu are sens ce am spus. Din câte îmi dau seama, nu s-a înțeles ideea. Aș vrea să reformulez”
+„Observ că nu are sens ce am spus. Din câte îmi dau seama, nu s-a înțeles ideea. Aș vrea să reformulez.”
 
 Imediat ce primești aprobare, vei vedea cum a doua oară reușești să te concentrezi mai bine și să pui cap la cap ideile.
 
-De ce este important să verbalizezi că vrei să reformulezi? Pentru că are rol de delimitare, și te ajută să te deconectezi de prima încercare.
+De ce este important să verbalizezi că vrei să reformulezi? Pentru că are rol de delimitare și te ajută să te deconectezi de prima încercare.
 
-Așa cum cel mai probabil te-ai obișnuit, îți cer și de data asta să nu mă crezi pe cuvânt, și să testezi pe cont propriu, în situațiile tale de viață.
+Așa cum cel mai probabil te-ai obișnuit, îți cer și de data asta să nu mă crezi pe cuvânt și să testezi pe cont propriu, în situațiile tale de viață. Sunt două fraze, două idei, care pot fi testate și folosite conform contextului. Te rog să nu te blochezi în a nu folosi cuvintele de mai sus, doar pentru că nu le poți reține. Nu este nevoie să le memorezi ca ele să funcționeze.
 
 Ca să te încurajez să testezi, acum că ești la finalul articolului… Cum ar fi ca ideile din minte, să fie tot mai des verbalizate? Cum ar fi ca la un moment dat, după puțin antrenament, să îți dai seama de variante alternative, mai bune, înainte să le verbalizezi?
 
-În această direcție vreau să te conduc pe acest blog, așa că dragul meu, draga mea, te invit să te abonezi, pentru că doar așa putem prinde împreună valul următor.
+În această direcție vreau să te conduc pe acest blog, așa că dragul meu, draga mea, te invit să te abonezi, pentru că doar așa putem prinde împreună valul următor de soluții practice.
 
 Sergiu,
 
